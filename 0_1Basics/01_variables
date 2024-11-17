@@ -1,0 +1,14 @@
+const accountId = 144553
+let accountEmail = "riya@google.com"
+var acoountPassword ="12345"
+accountCity = "Jaipur"
+
+// accountId = 2  not allowed
+
+accountEmail = "hc@nd.com"
+accountPassword= "1234986"
+accountCity = "Banagaluru" 
+
+/* prefer not to use var because of block scope and functional scope*/
+
+console.log(accountId);
